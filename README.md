@@ -5,20 +5,20 @@ This project implements a login and signup system using the MERN (MongoDB, Expre
 It provides both frontend and backend functionality to manage user authentication.
 
 Features :
-User registration with email and password
-User login with email and password
-Secure password storage using bcrypt
-JSON Web Token (JWT) based authentication
-Frontend built with React.js for a dynamic user interface
-Backend built with Node.js and Express.js
-MongoDB used as the database to store user information
+User registration with email and password,
+User login with email and password,
+Secure password storage using bcrypt,
+JSON Web Token (JWT) based authentication,
+Frontend built with React.js for a dynamic user interface,
+Backend built with Node.js and Express.js,
+MongoDB used as the database to store user information.
 
 Installation :
 Clone the repository:
 git clone https://github.com/your-username/login-signup-mern.git
 
 Navigate to the project directory:
-cd login-signup-mern
+cd login-signup-mern.
 
 Install dependencies:
 cd client && npm install && cd ../server && npm install
